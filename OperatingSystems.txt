@@ -1,0 +1,15 @@
+Operating Systems
+
+Windows 10
+Windows 10 is the most recent iteration of Microsoft’s popular personal computing operating system. It is the successor of 8.1, their last major release. It is the OS that I use on a daily basis and is being run on the computer I am typing this up on.
+Advantages
+•	Windows has been around for a long time, with over 900 million devices currently running Windows 10, so compatibility issues should not be a problem
+•	Stability and performance improvements across the board, and loading time of OS greatly reduced
+•	Further integration of universal apps, which can be used with touch screen devices like the Surface and 2-in-1 laptops
+•	Windows built-in anti-virus suite Windows Defender has come a long way, with an improved firewall and other features
+•	The start menu is back, a feature Windows controversially took out in Windows 8
+•	Overall easier to use interface
+Disadvantages
+•	A couple of applications present in earlier versions are no longer made, and therefore are not bundled into the OS
+•	During launch, there was controversy when users investigated the analytics and user-data that the OS logs, although this could be turned off during an advanced installation
+•	Older machines could have problems running it
