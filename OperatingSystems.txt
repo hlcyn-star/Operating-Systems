@@ -25,3 +25,15 @@ Disadvantages
 •	Was quite buggy at launch
 •	Companies are still getting their apps updated for the new OS, causing compatibility issues
 •	The Photo app is not as intuitive as the previous version
+
+Linux
+Linux is an open-source operating system, an offshoot of UNIX.
+Advantages
+•	Most versions or ‘distros’ are free, as well as most software
+•	Linux is stable
+•	Less vulnerable to malware and viruses
+•	Works well on older computers
+Disadvantages
+•	Most Windows programs will not run on Linux
+•	Less hardware drivers for Linux, making choosing accessories harder
+•	Bigger learning curve
