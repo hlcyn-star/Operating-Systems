@@ -13,3 +13,15 @@ Disadvantages
 •	A couple of applications present in earlier versions are no longer made, and therefore are not bundled into the OS
 •	During launch, there was controversy when users investigated the analytics and user-data that the OS logs, although this could be turned off during an advanced installation
 •	Older machines could have problems running it
+
+Apple iOS 13
+iOS 13 is the newest iteration of Apple’s mobile operating system for their line of iPhone smartphones, replacing i0S 12. I also use this OS daily on my iPhone X.
+Advantages
+•	Apple OS’s have always been very straight-forward and easy to use, with elegant UI
+•	The update has made a lot of processes faster, including the facial recognition software used to unlock your phone
+•	They introduced Dark Mode, which uses a dark UI instead of white, which is easier on the eyes, especially at night
+•	Performance increases on most existing iOS devices
+Disadvantages
+•	Was quite buggy at launch
+•	Companies are still getting their apps updated for the new OS, causing compatibility issues
+•	The Photo app is not as intuitive as the previous version
